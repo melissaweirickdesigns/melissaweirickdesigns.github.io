@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/melissa-weirick-portfolio/static/css/main.f4cb4b85.css",
+    "main.js": "/melissa-weirick-portfolio/static/js/main.0082b067.js",
+    "static/media/slick.svg": "/melissa-weirick-portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/melissa-weirick-portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/melissa-weirick-portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/melissa-weirick-portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/melissa-weirick-portfolio/index.html",
+    "main.f4cb4b85.css.map": "/melissa-weirick-portfolio/static/css/main.f4cb4b85.css.map",
+    "main.0082b067.js.map": "/melissa-weirick-portfolio/static/js/main.0082b067.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4cb4b85.css",
+    "static/js/main.0082b067.js"
+  ]
+}
